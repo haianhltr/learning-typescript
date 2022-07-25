@@ -1,3 +1,3 @@
 # learning-typescript
 
-This repository contains TypeScript syntax and rules.
+This repository contains TypeScript rules and syntax.
